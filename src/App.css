@@ -1,0 +1,35 @@
+.App {
+    text-align: center;
+    background-color: #bde0fe;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .todo-item {
+    background-color: #ffddc1;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+  .clear-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ff4c4c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .clear-button:hover {
+    background-color: #e04343;
+  }
+  

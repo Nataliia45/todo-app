@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "text": "Redux",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "JS",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "text": "React",
+      "completed": false
+    }
+  ]
+  
